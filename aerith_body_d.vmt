@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ff7_remake/aerith_red_dress/Aerith_Body_D"
+	"$bumpmap" "models/ff7_remake/aerith_red_dress/Aerith_Body_N"
+	
+	"$phong" 1
+	"$alphatest" 1
+}
